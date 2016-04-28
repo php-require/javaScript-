@@ -6,6 +6,12 @@
 2.0 / 0    // = Infinity
 2.0 / 0.0  // = Infinity
 2.0 / -0.0 // = -Infinity
+console.log(15 > 4); //  true is printed.
+
+// всЄ true:
+console.log("Xiao Hui".length < 122);
+console.log("Goody Donaldson".length !== 8);
+console.log(8*2 === 16);
 
 // % (ћодуль числа) 
 //Ётот оператор возвращает значение остатка при делении первого операнда на второй. –езультат будет иметь тот же знак, что и первый операнд.
